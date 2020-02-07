@@ -2,7 +2,7 @@
 title: BY Blog
 SEOTitle: 芥子的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: molifenge@qq.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 芥子的博客, molifenge, 芥子, iOS, Apple, iPhone"
 url: "http://molifenge.github.io"          # your host, for absolute URL
@@ -18,8 +18,8 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-weibo_username:     碗碗是个乖宝宝
-zhihu_username:     菲太狼参上
+weibo_username:     username
+zhihu_username:     usrname
 github_username:    molifenge
 #facebook_username:  username
 #jianshu_username:   username

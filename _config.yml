@@ -1,11 +1,11 @@
 # Site settings
 title: Blog
-SEOTitle: 芥子的小世界 | Blog
+SEOTitle: 芥子世界 | Blog
 header-img: img/post-bg-desk.jpg
 email: molifenge@qq.com
 description: "Welcome to my little corner of the world."
-keyword: "BY, BY Blog, 芥子的小世界, molifenge, 芥子, iOS, Apple, iPhone"
-url: "http://molifenge.github.io"          # your host, for absolute URL
+keyword: "BY, BY Blog, 芥子世界, molifenge, 芥子, iOS, Apple, iPhone"
+url: "https://molifenge.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/molifenge/molifenge.github.io.git" # you code repository
 

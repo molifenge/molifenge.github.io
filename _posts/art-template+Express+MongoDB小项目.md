@@ -1,4 +1,17 @@
-﻿# 前言
+---
+layout:     post
+title:      art-template+Express+MongoDB小项目
+subtitle:   前后端交互原理的小demo
+date:       2020-02-23
+author:     molifenge
+header-img: img/post-bg-webpack.jpg
+catalog: true
+tags:
+    - 前端
+    - 项目
+---
+
+# 前言
 &nbsp;&nbsp;&nbsp;&nbsp;为了体验前后端交互的内容，我找了art-template+Express+MongoDB（[代码Github->https://github.com/molifenge/selfblog](https://github.com/molifenge/selfblog.git)）这个简单的小项目练练手，页面极其简陋，不喜勿喷。本项目是使用前端引擎art-template+Express+MongoDB为主开发的项目，本文将对项目使用的技术和一些细节处进行讲解。
 
 # 一、效果图
